@@ -77,6 +77,11 @@
       "defaultValue": false,
       "userValues": {}
 },
+    "EventArtwork": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
+},
     "FeaturedShopConfig": {
       "valueType": "boolean",
       "defaultValue": false,
