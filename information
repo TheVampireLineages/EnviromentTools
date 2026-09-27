@@ -78,7 +78,7 @@
     },
     "FeaturedShopConfig": {
       "valueType": "boolean",
-      "defaultValue": false,
+      "defaultValue": true,
       "userValues": {}
     }
   }
