@@ -1,6 +1,11 @@
 {
   "success": true,
   "flags": {
+    "PlayerListKills": {
+      "valueType": "boolean",
+      "defaultValue": true,
+      "userValues": {}
+    },
     "Debug": {
       "valueType": "boolean",
       "defaultValue": true,
@@ -16,7 +21,6 @@
       "defaultValue": "2.5.0",
       "userValues": {}
     },
-
     "Gravity": {
       "valueType": "number",
       "defaultValue": 196.2,
@@ -66,22 +70,12 @@
       "valueType": "boolean",
       "defaultValue": false,
       "userValues": {}
-},
-    "Blinking": {
-      "valueType": "boolean",
-      "defaultValue": false,
-      "userValues": {}
-},
-    "ShowUsername": {
-      "valueType": "boolean",
-      "defaultValue": false,
-      "userValues": {}
-},
+    },
     "EventArtwork": {
       "valueType": "boolean",
       "defaultValue": false,
       "userValues": {}
-},
+    },
     "FeaturedShopConfig": {
       "valueType": "boolean",
       "defaultValue": false,
