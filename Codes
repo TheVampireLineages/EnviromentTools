@@ -33,5 +33,9 @@
   "TESTE3": {
     "MysticCoins": 1,
     "ExpiresAt": 1793145380
+  },
+  "TEST4": {
+    "MysticCoins": 1,
+    "ExpiresAt": 1793145701
   }
 }
