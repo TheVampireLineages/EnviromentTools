@@ -1,12 +1,37 @@
 {
-  "10KVISITS": {
-    "Moonstone": 250
-  },
   "11VISITS": {
     "Moonstone": 2500
   },
- "halloween": {
-    "Moonstone": 300
+  "NEWBEGINNINGS": {
+    "Moonstone": 200,
+    "ExpiresAt": 1793323475
   },
-
+  "10KVISITS": {
+    "Moonstone": 250,
+    "ExpiresAt": 1793391382
+  },
+  "HALLOWEEN": {
+    "Moonstone": 300,
+    "ExpiresAt": 1793537386
+  },
+  "9ARTYPRINCESS": {
+    "Moonstone": 300,
+    "ExpiresAt": 1793451147
+  },
+  "BLOODMOON2026": {
+    "Moonstone": 250,
+    "ExpiresAt": 1794228863
+  },
+  "TRICKORTREAT": {
+    "MysticCoins": 500,
+    "ExpiresAt": 1794228909
+  },
+  "BESTCOPY": {
+    "Moonstone": 250,
+    "ExpiresAt": 1794228928
+  },
+  "TESTE3": {
+    "MysticCoins": 1,
+    "ExpiresAt": 1793145380
+  }
 }
