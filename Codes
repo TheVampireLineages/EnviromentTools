@@ -30,9 +30,5 @@
   "15KVISITS": {
     "Moonstone": 250,
     "ExpiresAt": 1793980075
-  },
-  "TEST21": {
-    "Moonstone": 1,
-    "ExpiresAt": 1793376387
   }
 }
