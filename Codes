@@ -1,11 +1,4 @@
 {
-  "11VISITS": {
-    "Moonstone": 2500
-  },
-  "10KVISITS": {
-    "Moonstone": 250,
-    "ExpiresAt": 1793391382
-  },
   "HALLOWEEN": {
     "Moonstone": 300,
     "ExpiresAt": 1793537386
