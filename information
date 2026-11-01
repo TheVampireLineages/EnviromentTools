@@ -18,7 +18,7 @@
     },
     "GameVersion": {
       "valueType": "string",
-      "defaultValue": "2.5.0",
+      "defaultValue": "5.3",
       "userValues": {}
     },
     "Gravity": {
