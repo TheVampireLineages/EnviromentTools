@@ -11,7 +11,7 @@
       "defaultValue": true,
       "userValues": {}
     },
-     "Blinking": {
+    "Blinking": {
       "valueType": "boolean",
       "defaultValue": false,
       "userValues": {}
@@ -79,6 +79,256 @@
     "FeaturedShopConfig": {
       "valueType": "boolean",
       "defaultValue": true,
+      "userValues": {}
+    },
+    "AbilityUnequipFix": {
+      "valueType": "boolean",
+      "defaultValue": true,
+      "userValues": {}
+    },
+    "AnalyticsEnabled": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
+    },
+    "AutocompleteFix": {
+      "valueType": "boolean",
+      "defaultValue": true,
+      "userValues": {}
+    },
+    "BlinkingDuration": {
+      "valueType": "number",
+      "defaultValue": 0.5,
+      "userValues": {}
+    },
+    "BlinkingInterval": {
+      "valueType": "string",
+      "defaultValue": "5-20",
+      "userValues": {}
+    },
+    "BountyRewards": {
+      "valueType": "boolean",
+      "defaultValue": true,
+      "userValues": {}
+    },
+    "BountySystem": {
+      "valueType": "boolean",
+      "defaultValue": true,
+      "userValues": {}
+    },
+    "CandyCaneSwordDamage": {
+      "valueType": "number",
+      "defaultValue": 25,
+      "userValues": {}
+    },
+    "CaptchaEnabled": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
+    },
+    "CaptchaRate": {
+      "valueType": "string",
+      "defaultValue": "",
+      "userValues": {}
+    },
+    "CaptchasRequired": {
+      "valueType": "number",
+      "defaultValue": 1,
+      "userValues": {}
+    },
+    "CircleActionPrompt": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
+    },
+    "CircleDefaultSpeed": {
+      "valueType": "number",
+      "defaultValue": 5,
+      "userValues": {}
+    },
+    "CircleFastSpeed": {
+      "valueType": "number",
+      "defaultValue": 8,
+      "userValues": {}
+    },
+    "CloseBug": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
+    },
+    "CustomEmotesDisabled": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
+    },
+    "CustomEnvironment": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
+    },
+    "CustomPlayerList": {
+      "valueType": "boolean",
+      "defaultValue": true,
+      "userValues": {}
+    },
+    "DebugLoading": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
+    },
+    "DelayPrompt": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
+    },
+    "DisabledEmotes": {
+      "valueType": "string",
+      "defaultValue": "[]",
+      "userValues": {}
+    },
+    "EscapeCountdown": {
+      "valueType": "number",
+      "defaultValue": 5,
+      "userValues": {}
+    },
+    "EscapePromptProgress": {
+      "valueType": "number",
+      "defaultValue": 0.3,
+      "userValues": {}
+    },
+    "FireAxeCooldown": {
+      "valueType": "number",
+      "defaultValue": 0,
+      "userValues": {}
+    },
+    "FireAxeDamage": {
+      "valueType": "number",
+      "defaultValue": 25,
+      "userValues": {}
+    },
+    "ForceDeviceType": {
+      "valueType": "string",
+      "defaultValue": "",
+      "userValues": {}
+    },
+    "HoldActionPrompt": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
+    },
+    "Inverse": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
+    },
+    "MacroMaxClicks": {
+      "valueType": "number",
+      "defaultValue": 15,
+      "userValues": {}
+    },
+    "MapBoundariesV2": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
+    },
+    "MapBoundaryAnchor": {
+      "valueType": "boolean",
+      "defaultValue": true,
+      "userValues": {}
+    },
+    "MaxClicksPerSecond": {
+      "valueType": "number",
+      "defaultValue": 11,
+      "userValues": {}
+    },
+    "MazeDontTeleportOnStuck": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
+    },
+    "MobileTopButtons": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
+    },
+    "OutfitShopEnabled": {
+      "valueType": "boolean",
+      "defaultValue": true,
+      "userValues": {}
+    },
+    "OutfitStoreCost": {
+      "valueType": "number",
+      "defaultValue": 50,
+      "userValues": {}
+    },
+    "PumpkinCarving": {
+      "valueType": "boolean",
+      "defaultValue": true,
+      "userValues": {}
+    },
+    "RunToOpenDoor": {
+      "valueType": "boolean",
+      "defaultValue": true,
+      "userValues": {}
+    },
+    "S-SquareGuardText": {
+      "valueType": "string",
+      "defaultValue": "red light green light if you move = eliminated",
+      "userValues": {}
+    },
+    "ServerBrowser": {
+      "valueType": "boolean",
+      "defaultValue": true,
+      "userValues": {}
+    },
+    "ShowUI": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
+    },
+    "SnowRaceValues": {
+      "valueType": "string",
+      "defaultValue": "{\"acceleration\":0.005,\"friction\":0.005}",
+      "userValues": {}
+    },
+    "SuperSpeedToTarget": {
+      "valueType": "boolean",
+      "defaultValue": true,
+      "userValues": {}
+    },
+    "Thanksgiving": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
+    },
+    "WadeRiversMenu": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
+    },
+    "WallRunKnockback": {
+      "valueType": "boolean",
+      "defaultValue": false,
+      "userValues": {}
+    },
+    "WallTunnelGuard": {
+      "valueType": "boolean",
+      "defaultValue": true,
+      "userValues": {}
+    },
+    "ZombieEnabled": {
+      "valueType": "boolean",
+      "defaultValue": true,
+      "userValues": {}
+    },
+    "ZombiePivotStuck": {
+      "valueType": "boolean",
+      "defaultValue": true,
+      "userValues": {}
+    },
+    "ZombieDamage": {
+      "valueType": "number",
+      "defaultValue": 0.15,
       "userValues": {}
     }
   }
