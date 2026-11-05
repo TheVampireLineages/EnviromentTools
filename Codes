@@ -18,5 +18,9 @@
   "15KVISITS": {
     "Moonstone": 250,
     "ExpiresAt": 1793980075
+  },
+  "22KVISITS": {
+    "Moonstone": 250,
+    "ExpiresAt": 1794406590
   }
 }
