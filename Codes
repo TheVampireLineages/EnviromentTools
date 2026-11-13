@@ -2,5 +2,9 @@
   "38KVISITS": {
     "Moonstone": 500,
     "ExpiresAt": 1794943982
+  },
+  "44KVISITS": {
+    "Moonstone": 250,
+    "ExpiresAt": 1795039100
   }
 }
