@@ -18,5 +18,9 @@
   "TVLBUGFIX": {
     "Moonstone": 500,
     "ExpiresAt": 1797474214
+  },
+  "5KMEMBERS": {
+    "Moonstone": 300,
+    "ExpiresAt": 1794888241
   }
 }
