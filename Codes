@@ -14,5 +14,9 @@
   "60KVISITS": {
     "Moonstone": 300,
     "ExpiresAt": 1795129283
+  },
+  "TVLBUGFIX": {
+    "Moonstone": 500,
+    "ExpiresAt": 1797474214
   }
 }
