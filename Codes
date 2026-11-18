@@ -18,5 +18,9 @@
   "5KMEMBERSS": {
     "Moonstone": 400,
     "ExpiresAt": 1795363461
+  },
+  "66KVISITS": {
+    "Moonstone": 600,
+    "ExpiresAt": 1796693411
   }
 }
